@@ -1,0 +1,29 @@
+{
+  "repo": "ufs-explorer-professional-recovery",
+  "product": "UFS Explorer Professional Recovery",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://ufs-explorer.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "ufs-explorer",
+    "data-recovery",
+    "disk-recovery",
+    "raid-recovery",
+    "partition-recovery",
+    "file-restoration",
+    "storage-recovery",
+    "forensics-recovery",
+    "ufs-explorer-setup-failed-fix",
+    "how-to-install-ufs-explorer",
+    "ufs-windows",
+    "recovery-tools",
+    "windows-tools",
+    "data-utility"
+  ],
+  "stars_cache": 20,
+  "nexpath_slug": "ufs-explorer",
+  "nexpath_app_name": "UFS Explorer"
+}
